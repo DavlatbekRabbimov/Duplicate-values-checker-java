@@ -1,1 +1,1 @@
-# Duplicated-values-checker JAVA
+# DUPLICATE VALUES CHECKER IN LIST | JAVA |

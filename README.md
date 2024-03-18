@@ -1,1 +1,1 @@
-# Duplicated-values-checker---java
+# Duplicated-values-checker JAVA
